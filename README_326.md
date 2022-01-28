@@ -1,3 +1,5 @@
+The quick brown fox jumped over the lazy dog. - Destin first pull request.
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
